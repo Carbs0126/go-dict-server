@@ -1,4 +1,4 @@
-#go-dict-server
+# go-dict-server
 
 ## 功能
 1. 通过```sqlite3```读取数据库文件；
